@@ -45,11 +45,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="/post/2015-07-23-r-rmarkdown/">
+  <link rel="canonical" href="/publication/isee/">
 
   
 
-  <title>Hello R Markdown | Federico Marini</title>
+  <title>iSEE: Interactive SummarizedExperiment Explorer | Federico Marini</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -155,98 +155,58 @@
   </div>
 </nav>
 
-
-<article class="article" itemscope itemtype="http://schema.org/Article">
-
-  
-
-
-  <div class="article-container">
-    <h1 itemprop="name">Hello R Markdown</h1>
-    
-
-<div class="article-metadata">
-
-  <span class="article-date">
-    
-    <time datetime="2015-07-23 21:13:14 -0500 -0500" itemprop="datePublished">
-      Jul 23, 2015
-    </time>
-  </span>
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
+<div class="article-header">
+  <img src="/img/iSEE_screenshot.gif" class="article-banner" itemprop="image">
+  <span class="article-header-caption">An overview of iSEE</span>
+</div>
 
-  
-  
-  
-  <span class="article-categories">
-    <i class="fa fa-folder"></i>
-    
-    <a href="/categories/r">R</a
-    >
-    
-  </span>
-  
-  
 
-  
-  
-  
-  <span class="article-tags">
-    <i class="fa fa-tags"></i>
-    
-    <a href="/tags/r-markdown">R Markdown</a
-    >, 
-    
-    <a href="/tags/plot">plot</a
-    >, 
-    
-    <a href="/tags/regression">regression</a
-    >
-    
-  </span>
-  
-  
 
-  
-  
+  <div class="container pub-title">
+    <h1 itemprop="name">iSEE: Interactive SummarizedExperiment Explorer</h1>
+    <span class="pub-authors" itemprop="author">
+      
+      Rue-Albrecht K, Marini F, Soneson C, Lun ATL
+      
+    </span>
+    <span class="pull-right">
+      
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Hello%20R%20Markdown&amp;url=%2fpost%2f2015-07-23-r-rmarkdown%2f"
+         href="https://twitter.com/intent/tweet?text=iSEE%3a%20Interactive%20SummarizedExperiment%20Explorer&amp;url=%2fpublication%2fisee%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=%2fpost%2f2015-07-23-r-rmarkdown%2f"
+         href="https://www.facebook.com/sharer.php?u=%2fpublication%2fisee%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpost%2f2015-07-23-r-rmarkdown%2f&amp;title=Hello%20R%20Markdown"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpublication%2fisee%2f&amp;title=iSEE%3a%20Interactive%20SummarizedExperiment%20Explorer"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=%2fpost%2f2015-07-23-r-rmarkdown%2f&amp;title=Hello%20R%20Markdown"
+         href="http://service.weibo.com/share/share.php?url=%2fpublication%2fisee%2f&amp;title=iSEE%3a%20Interactive%20SummarizedExperiment%20Explorer"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Hello%20R%20Markdown&amp;body=%2fpost%2f2015-07-23-r-rmarkdown%2f">
+         href="mailto:?subject=iSEE%3a%20Interactive%20SummarizedExperiment%20Explorer&amp;body=%2fpublication%2fisee%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -254,78 +214,136 @@
 </div>
 
 
-  
-
-</div>
-
-    <div class="article-style" itemprop="articleBody">
-      <div id="r-markdown" class="section level1">
-<h1>R Markdown</h1>
-<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
-<p>You can embed an R code chunk like this:</p>
-<pre class="r"><code>summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932</code></pre>
-</div>
-<div id="including-plots" class="section level1">
-<h1>Including Plots</h1>
-<p>You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:</p>
-<pre class="r"><code>par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;),
-  col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;),
-  init.angle = -50, border = NA
-)</code></pre>
-<div class="figure"><span id="fig:pie"></span>
-<img src="/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
-<p class="caption">
-Figure 1: A fancy pie chart.
-</p>
-</div>
-</div>
-
-    </div>
+    </span>
   </div>
 
-</article>
+</div>
+<div class="article-container">
+
+  
+
+  <h3>Abstract</h3>
+  <p class="pub-abstract" itemprop="text">Data exploration is critical to the comprehension of large biological data sets generated by high-throughput assays such as sequencing. However, most existing tools for interactive visualisation are limited to specific assays or analyses. Here, we present the iSEE (Interactive SummarizedExperiment Explorer) software package, which provides a general visual interface for exploring data in a SummarizedExperiment object. iSEE is directly compatible with many existing R/Bioconductor packages for analysing high-throughput biological data, and provides useful features such as simultaneous examination of (meta)data and analysis results, dynamic linking between plots and code tracking for reproducibility. We demonstrate the utility and flexibility of iSEE by applying it to explore a range of real transcriptomics and proteomics data sets.</p>
+
+  
+  <div class="row">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
+        <div class="col-xs-12 col-sm-9">
+          
+          <a href="/publication/#2">
+            Journal
+          </a>
+          
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-1"></div>
+  </div>
+  <div class="visible-xs space-below"></div>
+  
+
+  <div class="row">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
+        <div class="col-xs-12 col-sm-9">In <em>F1000Research</em></div>
+      </div>
+    </div>
+    <div class="col-sm-1"></div>
+  </div>
+  <div class="visible-xs space-below"></div>
+
+  <div class="row">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+        <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+          June, 2018
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-1"></div>
+  </div>
+  <div class="visible-xs space-below"></div>
+
+  <div class="row" style="padding-top: 10px">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+        <div class="col-xs-12 col-sm-9">
+
+          
 
 
 
+
+<a class="btn btn-primary btn-outline" href="https://f1000research.com/articles/7-741/v1/pdf?article_uuid=b8d2e1f9-d1e9-4d50-8355-39e064c65b00">
+  PDF
+</a>
+
+
+<a class="btn btn-primary btn-outline" href="/">
+  Slides
+</a>
+
+
+<a class="btn btn-primary btn-outline" href="/">
+  Video
+</a>
+
+
+<a class="btn btn-primary btn-outline" href="/">
+  Code
+</a>
+
+
+<a class="btn btn-primary btn-outline" href="/">
+  Dataset
+</a>
+
+
+<a class="btn btn-primary btn-outline" href="/project/interrepro/">
+  Project
+</a>
+
+
+<a class="btn btn-primary btn-outline" href="#ZgotmplZ">
+  Give it a try!
+</a>
+
+
+
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-1"></div>
+  </div>
+  <div class="visible-xs space-below"></div>
+
+  <div class="space-below"></div>
+
+  <div class="article-style"><!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. -->
+</div>
+
+</div>
 
 <div class="container">
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="/post/migrate-from-jekyll/"><span
-      aria-hidden="true">&larr;</span> Migrate from Jekyll to Hugo</a></li>
+    <li class="previous"><a href="/publication/ideal/"><span
+      aria-hidden="true">&larr;</span> ideal: an R/Bioconductor package for Interactive Differential Expression Analysis</a></li>
     
 
-    
-    <li class="next"><a href="/post/writing-markdown-latex/">Writing content with Markdown, LaTeX, and Shortcodes <span
-      aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>
-
-</div>
-
-<div class="article-container">
-  
 
 </div>
 
@@ -374,6 +392,13 @@ Figure 1: A fancy pie chart.
       <script>hljs.initHighlightingOnLoad();</script>
     
 
+    
+    
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+    </script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML" integrity="sha512-tOav5w1OjvsSJzePRtt2uQPFwBoHt1VZcUq8l8nm5284LEKE9FSJBQryzMBzHxY5P0zRdNqEcpLIRVYFNgu1jw==" crossorigin="anonymous"></script>
     
     
 

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Federico Marini</title>
-    <link>/project/</link>
-    <description>Recent content in Projects on Federico Marini</description>
+    <title>Inter Repro on Federico Marini</title>
+    <link>/tags/inter-repro/</link>
+    <description>Recent content in Inter Repro on Federico Marini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-2018 Federico Marini</copyright>
     <lastBuildDate>Sun, 04 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/inter-repro/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
