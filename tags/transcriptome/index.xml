@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Transcriptome on Federico Marini</title>
+    <title>transcriptome on Federico Marini</title>
     <link>/tags/transcriptome/</link>
-    <description>Recent content in Transcriptome on Federico Marini</description>
+    <description>Recent content in transcriptome on Federico Marini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2018 Federico Marini</copyright>
+    <copyright>&amp;copy; 2017-present Federico Marini</copyright>
     <lastBuildDate>Sun, 04 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/transcriptome/index.xml" rel="self" type="application/rss+xml" />
