@@ -123,6 +123,21 @@ Here are some detailed information on a couple of my latest contributions:</desc
     </item>
     
     <item>
+      <title>Software</title>
+      <link>/home/software/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/software/</guid>
+      <description> 🚧 WORK IN PROGRESS 🚧
+R packages I am the maintainer or co-developer of the following R packages:
+  Something on pcaExplorer
+  Something on ideal
+  Something on iSEE
+  Something on flowcatchR
+  Other resources </description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
