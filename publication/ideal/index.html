@@ -15,7 +15,7 @@
   
     
   
-  <meta name="description" content="RNA-sequencing is an ever increasingly popular tool for transcriptome profiling. A key point to make the best use of the available datasets is to provide tools that are easy to use but still provide flexibility and transparency in the adopted methods. In the scope of differential expression analysis, we provide the R/Bioconductor package ideal, which serves as a web application to allow for interac- tive and reproducible analysis, while producing a wealth of effective visualizations to facilitate data interpretation. ideal is implemented in R, based on the Shiny framework, and distributed as a package on Github (https://github.com/federicomarini/ideal) as well as in the Bioconductor project (http://bioconductor.org/packages/ideal/)">
+  <meta name="description" content="RNA sequencing (RNA-seq) is an ever increasingly popular tool for transcriptome profiling.  A key point to make the best use of the available data is to provide software tools that are easy to use but still provide flexibility and transparency in the adopted methods. Despite the availability of many packages focused on detecting differential expression, a method to streamline this type of bioinformatics analysis in a comprehensive, accessible, and reproducible way is lacking. &lt;br&gt;We developed the `ideal` software package, which serves as a web application for interactive and reproducible RNA-seq analysis, while producing a wealth of visualizations to facilitate data interpretation. `ideal` is implemented in R using the Shiny framework, and is fully integrated with the existing core structures of the Bioconductor project. Users can perform the essential steps of the differential expression analysis workflow in an assisted way, and generate a broad spectrum of publication-ready outputs, including diagnostic and summary visualizations in each module, all the way down to functional analysis. `ideal` also offers the possibility to seamlessly generate a full HTML report for storing and sharing results together with code for reproducibility. &lt;br&gt;`ideal` is distributed as an R package in the Bioconductor project (http://bioconductor.org/packages/ideal/), and provides a solution for performing interactive and reproducible analyses of summarized RNA-seq expression data, empowering researchers with many different profiles (life scientists, clinicians, but also experienced bioinformaticians) to make the *ideal* use of the data at hand.">
 
   
   <link rel="alternate" hreflang="en-us" href="/publication/ideal/">
@@ -105,12 +105,12 @@
   <meta property="og:site_name" content="Federico Marini">
   <meta property="og:url" content="/publication/ideal/">
   <meta property="og:title" content="ideal: an R/Bioconductor package for Interactive Differential Expression Analysis | Federico Marini">
-  <meta property="og:description" content="RNA-sequencing is an ever increasingly popular tool for transcriptome profiling. A key point to make the best use of the available datasets is to provide tools that are easy to use but still provide flexibility and transparency in the adopted methods. In the scope of differential expression analysis, we provide the R/Bioconductor package ideal, which serves as a web application to allow for interac- tive and reproducible analysis, while producing a wealth of effective visualizations to facilitate data interpretation. ideal is implemented in R, based on the Shiny framework, and distributed as a package on Github (https://github.com/federicomarini/ideal) as well as in the Bioconductor project (http://bioconductor.org/packages/ideal/)"><meta property="og:image" content="/publication/ideal/featured.png">
+  <meta property="og:description" content="RNA sequencing (RNA-seq) is an ever increasingly popular tool for transcriptome profiling.  A key point to make the best use of the available data is to provide software tools that are easy to use but still provide flexibility and transparency in the adopted methods. Despite the availability of many packages focused on detecting differential expression, a method to streamline this type of bioinformatics analysis in a comprehensive, accessible, and reproducible way is lacking. &lt;br&gt;We developed the `ideal` software package, which serves as a web application for interactive and reproducible RNA-seq analysis, while producing a wealth of visualizations to facilitate data interpretation. `ideal` is implemented in R using the Shiny framework, and is fully integrated with the existing core structures of the Bioconductor project. Users can perform the essential steps of the differential expression analysis workflow in an assisted way, and generate a broad spectrum of publication-ready outputs, including diagnostic and summary visualizations in each module, all the way down to functional analysis. `ideal` also offers the possibility to seamlessly generate a full HTML report for storing and sharing results together with code for reproducibility. &lt;br&gt;`ideal` is distributed as an R package in the Bioconductor project (http://bioconductor.org/packages/ideal/), and provides a solution for performing interactive and reproducible analyses of summarized RNA-seq expression data, empowering researchers with many different profiles (life scientists, clinicians, but also experienced bioinformaticians) to make the *ideal* use of the data at hand."><meta property="og:image" content="/publication/ideal/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2017-11-11T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2020-01-11T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2017-11-11T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2020-01-11T00:00:00&#43;00:00">
   
 
   
@@ -343,7 +343,7 @@
 
 
 <div class="article-header d-xl-none">
-  <div class="featured-image" style="background-image: url('/publication/ideal/featured_hue220fea9ee73524cac5b21515831a402_1623140_800x0_resize_box_2.png');"></div>
+  <div class="featured-image" style="background-image: url('/publication/ideal/featured_hua7324b3e3cf01e142ce3857dd23bb878_2120522_800x0_resize_box_2.png');"></div>
   <span class="article-header-caption">Overview of the workflow for ideal</span>
 </div>
 
@@ -366,6 +366,12 @@
   <div>
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">Marini F</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Linke J</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Binder H</span>
     </span>
     
   </div>
@@ -373,9 +379,9 @@
 
   <span class="article-date">
     
-    <meta content="2017-11-11 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-    <time datetime="2017-11-11 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-      Nov 11, 2017
+    <meta content="2020-01-11 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+    <time datetime="2020-01-11 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+      Jan 11, 2020
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -418,11 +424,25 @@
 
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.biorxiv.org/content/10.1101/2020.01.10.901652v1" target="_blank" rel="noopener">
+  Preprint
+</a>
+
 
 
 
   
+    
+  
 
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.biorxiv.org/content/10.1101/2020.01.10.901652v1.full.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -441,6 +461,10 @@
 
 
 
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1101/2020.01.10.901652v1" target="_blank" rel="noopener">
+  DOI
+</a>
 
 
   
@@ -509,7 +533,7 @@
     </div>
     <div class="col-6">
       <div class="split-header-image">
-        <img src="/publication/ideal/featured_hue220fea9ee73524cac5b21515831a402_1623140_680x500_fill_q90_box_smart1_2.png" itemprop="image" alt="">
+        <img src="/publication/ideal/featured_hua7324b3e3cf01e142ce3857dd23bb878_2120522_680x500_fill_q90_box_smart1_2.png" itemprop="image" alt="">
         <span class="article-header-caption">Overview of the workflow for ideal</span>
       </div>
     </div>
@@ -531,6 +555,12 @@
   <div>
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">Marini F</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Linke J</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Binder H</span>
     </span>
     
   </div>
@@ -538,9 +568,9 @@
 
   <span class="article-date">
     
-    <meta content="2017-11-11 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-    <time datetime="2017-11-11 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-      Nov 11, 2017
+    <meta content="2020-01-11 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+    <time datetime="2020-01-11 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+      Jan 11, 2020
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -625,11 +655,25 @@
 
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.biorxiv.org/content/10.1101/2020.01.10.901652v1" target="_blank" rel="noopener">
+  Preprint
+</a>
+
 
 
 
   
+    
+  
 
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.biorxiv.org/content/10.1101/2020.01.10.901652v1.full.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -648,6 +692,10 @@
 
 
 
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1101/2020.01.10.901652v1" target="_blank" rel="noopener">
+  DOI
+</a>
 
 
   
@@ -678,7 +726,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">RNA-sequencing is an ever increasingly popular tool for transcriptome profiling. A key point to make the best use of the available datasets is to provide tools that are easy to use but still provide flexibility and transparency in the adopted methods. In the scope of differential expression analysis, we provide the R/Bioconductor package ideal, which serves as a web application to allow for interac- tive and reproducible analysis, while producing a wealth of effective visualizations to facilitate data interpretation. ideal is implemented in R, based on the Shiny framework, and distributed as a package on Github (<a href="https://github.com/federicomarini/ideal" target="_blank">https://github.com/federicomarini/ideal</a>) as well as in the Bioconductor project (<a href="http://bioconductor.org/packages/ideal/" target="_blank">http://bioconductor.org/packages/ideal/</a>)</p>
+    <p class="pub-abstract" itemprop="text">RNA sequencing (RNA-seq) is an ever increasingly popular tool for transcriptome profiling.  A key point to make the best use of the available data is to provide software tools that are easy to use but still provide flexibility and transparency in the adopted methods. Despite the availability of many packages focused on detecting differential expression, a method to streamline this type of bioinformatics analysis in a comprehensive, accessible, and reproducible way is lacking. <br>We developed the <code>ideal</code> software package, which serves as a web application for interactive and reproducible RNA-seq analysis, while producing a wealth of visualizations to facilitate data interpretation. <code>ideal</code> is implemented in R using the Shiny framework, and is fully integrated with the existing core structures of the Bioconductor project. Users can perform the essential steps of the differential expression analysis workflow in an assisted way, and generate a broad spectrum of publication-ready outputs, including diagnostic and summary visualizations in each module, all the way down to functional analysis. <code>ideal</code> also offers the possibility to seamlessly generate a full HTML report for storing and sharing results together with code for reproducibility. <br><code>ideal</code> is distributed as an R package in the Bioconductor project (<a href="http://bioconductor.org/packages/ideal/" target="_blank">http://bioconductor.org/packages/ideal/</a>), and provides a solution for performing interactive and reproducible analyses of summarized RNA-seq expression data, empowering researchers with many different profiles (life scientists, clinicians, but also experienced bioinformaticians) to make the <em>ideal</em> use of the data at hand.</p>
     
 
     
@@ -707,7 +755,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In **</div>
+          <div class="col-12 col-md-9">In <em>bioRxiv</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -721,7 +769,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9" itemprop="datePublished">
-            November, 2017
+            January, 2020
           </div>
         </div>
       </div>

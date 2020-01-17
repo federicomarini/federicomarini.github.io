@@ -29,6 +29,16 @@
     </item>
     
     <item>
+      <title>ideal: an R/Bioconductor package for Interactive Differential Expression Analysis</title>
+      <link>/publication/ideal/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ideal/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>pcaExplorer: an R/Bioconductor package for interacting with RNA-seq principal components</title>
       <link>/publication/pcaexplorer/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
@@ -111,16 +121,6 @@ Two essential aspects of academic software that I have been focusing on througho
       <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/isee/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ideal: an R/Bioconductor package for Interactive Differential Expression Analysis</title>
-      <link>/publication/ideal/</link>
-      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ideal/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
