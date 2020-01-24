@@ -128,13 +128,11 @@ Here are some detailed information on a couple of my latest contributions:</desc
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/software/</guid>
-      <description> 🚧 WORK IN PROGRESS 🚧
+      <description>🚧 WORK IN PROGRESS 🚧
 R packages I am the maintainer or co-developer of the following R packages:
-  Something on pcaExplorer
-  Something on ideal
-  Something on iSEE
-  Something on flowcatchR
-  Other resources </description>
+ A package for interacting with RNA-seq principal components, based on objects from the DESeq2 framework
+  A package for performing Interactive Differential Expression AnaLysis - DE made accessible and reproducible!
+  A package for exploring interactively any SummarizedExperiment object, with an amazing support for reproducible research by meta-generating the required code</description>
     </item>
     
     <item>
