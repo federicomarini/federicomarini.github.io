@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>inter-repro on Federico Marini</title>
-    <link>/tags/inter-repro/</link>
+    <link>https://federicomarini.github.io/tags/inter-repro/</link>
     <description>Recent content in inter-repro on Federico Marini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-present Federico Marini</copyright>
     <lastBuildDate>Sun, 04 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/inter-repro/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://federicomarini.github.io/tags/inter-repro/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Interactive and reproducible research</title>
-      <link>/project/interrepro/</link>
+      <link>https://federicomarini.github.io/project/interrepro/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/project/interrepro/</guid>
+      <guid>https://federicomarini.github.io/project/interrepro/</guid>
       <description>Modern assay techniques have transformed biology into a data-rich science, and a fundamental component in the workflow of almost each scientific effort is represented by computational analyses. High-throughput sequencing applied to quantification of gene expression (RNA-sequencing) delivers at the same time an overview as well as plenty of details about the complex organization and regulation of transcriptome profiles for a set of biological samples. This high-dimensional assay, currently performed routinely by many research groups at the CTH, is, however, of little use without efficient biostatistics and bioinformatics methods to preprocess, analyze, and properly interpret them.</description>
     </item>
     
     <item>
       <title>Plateletopedia</title>
-      <link>/project/plateletopedia/</link>
+      <link>https://federicomarini.github.io/project/plateletopedia/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/project/plateletopedia/</guid>
+      <guid>https://federicomarini.github.io/project/plateletopedia/</guid>
       <description>Continuing to build upon the framework I developed in my doctoral studies (Marini and Binder, 2016), my objective is to design and develop a combination of methods, software, and resources, focused on the field of gene regulation in platelets.
 I will leverage on the many existing platelets RNA-Seq datasets (either published or generated in-house) to assemble a common resource that will be seamlessly used by thrombosis and hemostasis researchers to integrate the available corpus of known transcriptomic profiles with own data.</description>
     </item>

@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Federico Marini</title>
-    <link>/tags/</link>
+    <link>https://federicomarini.github.io/tags/</link>
     <description>Recent content in Tags on Federico Marini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-present Federico Marini</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://federicomarini.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Academic</title>
-      <link>/tags/academic/</link>
+      <link>https://federicomarini.github.io/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/tags/academic/</guid>
+      <guid>https://federicomarini.github.io/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
+      <link>https://federicomarini.github.io/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>https://federicomarini.github.io/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>inter-repro</title>
-      <link>/tags/inter-repro/</link>
+      <link>https://federicomarini.github.io/tags/inter-repro/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/inter-repro/</guid>
+      <guid>https://federicomarini.github.io/tags/inter-repro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>platelets</title>
-      <link>/tags/platelets/</link>
+      <link>https://federicomarini.github.io/tags/platelets/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/platelets/</guid>
+      <guid>https://federicomarini.github.io/tags/platelets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>/tags/plot/</link>
+      <link>https://federicomarini.github.io/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>https://federicomarini.github.io/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/tags/regression/</link>
+      <link>https://federicomarini.github.io/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>https://federicomarini.github.io/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>transcriptome</title>
-      <link>/tags/transcriptome/</link>
+      <link>https://federicomarini.github.io/tags/transcriptome/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/transcriptome/</guid>
+      <guid>https://federicomarini.github.io/tags/transcriptome/</guid>
       <description></description>
     </item>
     

@@ -8,7 +8,7 @@
     
     <url>
     
-      <loc>/publication/ideal/</loc>
+      <loc>https://federicomarini.github.io/publication/ideal/</loc>
       <lastmod>2020-01-11T00:00:00+00:00</lastmod>
     </url>
     
@@ -16,7 +16,7 @@
     
     <url>
     
-      <loc>/publication/pcaexplorer/</loc>
+      <loc>https://federicomarini.github.io/publication/pcaexplorer/</loc>
       <lastmod>2019-06-13T00:00:00+00:00</lastmod>
     </url>
     
@@ -24,7 +24,7 @@
     
     <url>
     
-      <loc>/project/interrepro/</loc>
+      <loc>https://federicomarini.github.io/project/interrepro/</loc>
       <lastmod>2018-11-04T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +32,7 @@
     
     <url>
     
-      <loc>/project/plateletopedia/</loc>
+      <loc>https://federicomarini.github.io/project/plateletopedia/</loc>
       <lastmod>2018-11-04T00:00:00+00:00</lastmod>
     </url>
     
@@ -40,7 +40,7 @@
     
     <url>
     
-      <loc>/tutorial/example/</loc>
+      <loc>https://federicomarini.github.io/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
@@ -48,7 +48,7 @@
     
     <url>
     
-      <loc>/tutorial/</loc>
+      <loc>https://federicomarini.github.io/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
@@ -56,15 +56,7 @@
     
     <url>
     
-      <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/isee/</loc>
+      <loc>https://federicomarini.github.io/publication/isee/</loc>
       <lastmod>2018-06-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -72,7 +64,7 @@
     
     <url>
     
-      <loc>/bio/</loc>
+      <loc>https://federicomarini.github.io/bio/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -80,7 +72,7 @@
     
     <url>
     
-      <loc>/talk/example/</loc>
+      <loc>https://federicomarini.github.io/talk/example/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -88,7 +80,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://federicomarini.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -96,7 +88,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://federicomarini.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -104,7 +96,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://federicomarini.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -112,7 +104,7 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
+      <loc>https://federicomarini.github.io/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
     </url>
     
@@ -120,7 +112,7 @@
     
     <url>
     
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
+      <loc>https://federicomarini.github.io/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
@@ -128,7 +120,7 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
+      <loc>https://federicomarini.github.io/tags/academic/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -137,7 +129,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://federicomarini.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -145,7 +137,7 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>https://federicomarini.github.io/</loc>
       <lastmod>2017-10-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -154,7 +146,7 @@
     
     <url>
     
-      <loc>/project/</loc>
+      <loc>https://federicomarini.github.io/project/</loc>
       <lastmod>2018-11-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -163,7 +155,7 @@
     
     <url>
     
-      <loc>/categories/r/</loc>
+      <loc>https://federicomarini.github.io/categories/r/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -172,7 +164,7 @@
     
     <url>
     
-      <loc>/tags/r-markdown/</loc>
+      <loc>https://federicomarini.github.io/tags/r-markdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -181,7 +173,7 @@
     
     <url>
     
-      <loc>/slides/</loc>
+      <loc>https://federicomarini.github.io/slides/</loc>
       <priority>0</priority>
     </url>
     
@@ -189,14 +181,14 @@
     
     <url>
     
-      <loc>/slides/example-slides/</loc>
+      <loc>https://federicomarini.github.io/slides/example-slides/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>https://federicomarini.github.io/tags/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -205,7 +197,7 @@
     
     <url>
     
-      <loc>/tags/inter-repro/</loc>
+      <loc>https://federicomarini.github.io/tags/inter-repro/</loc>
       <lastmod>2018-11-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -214,7 +206,7 @@
     
     <url>
     
-      <loc>/tags/platelets/</loc>
+      <loc>https://federicomarini.github.io/tags/platelets/</loc>
       <lastmod>2018-11-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -223,7 +215,7 @@
     
     <url>
     
-      <loc>/tags/plot/</loc>
+      <loc>https://federicomarini.github.io/tags/plot/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -232,7 +224,7 @@
     
     <url>
     
-      <loc>/tags/regression/</loc>
+      <loc>https://federicomarini.github.io/tags/regression/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -241,7 +233,7 @@
     
     <url>
     
-      <loc>/tags/transcriptome/</loc>
+      <loc>https://federicomarini.github.io/tags/transcriptome/</loc>
       <lastmod>2018-11-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

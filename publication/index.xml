@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Federico Marini</title>
-    <link>/publication/</link>
+    <link>https://federicomarini.github.io/publication/</link>
     <description>Recent content in Publications on Federico Marini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-present Federico Marini</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://federicomarini.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ideal: an R/Bioconductor package for Interactive Differential Expression Analysis</title>
-      <link>/publication/ideal/</link>
+      <link>https://federicomarini.github.io/publication/ideal/</link>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/ideal/</guid>
+      <guid>https://federicomarini.github.io/publication/ideal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pcaExplorer: an R/Bioconductor package for interacting with RNA-seq principal components</title>
-      <link>/publication/pcaexplorer/</link>
+      <link>https://federicomarini.github.io/publication/pcaexplorer/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/pcaexplorer/</guid>
+      <guid>https://federicomarini.github.io/publication/pcaexplorer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iSEE: Interactive SummarizedExperiment Explorer</title>
-      <link>/publication/isee/</link>
+      <link>https://federicomarini.github.io/publication/isee/</link>
       <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/isee/</guid>
+      <guid>https://federicomarini.github.io/publication/isee/</guid>
       <description></description>
     </item>
     
